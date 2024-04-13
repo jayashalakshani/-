@@ -3,8 +3,7 @@
 This Python script draws colorful flowers and displays the message "සුභ අලුත් අවුරුද්දක් වේවා" using the Turtle module. Each flower consists of multiple petals, with each petal having a unique color. The message is displayed in a rainbow color scheme.
 
 # How to Use
-Install Dependencies: Ensure you have Python installed on your system. Additionally, you need to have the Turtle module and PIL (Python Imaging Library) installed. You can install them using pip:
-
+Install Dependencies: Ensure you have Python installed on your system. Additionally, you need to have the Turtle module and PIL (Python Imaging Library) installed.
 # View the Output
 The script will draw colorful flowers on the screen and display the message "සුභ අලුත් අවුරුද්දක් වේවා".
 
